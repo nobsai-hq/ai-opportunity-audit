@@ -1,0 +1,2 @@
+# Heuristic analysis needs nothing. LLM deep-dive is optional:
+# openai>=1.30
